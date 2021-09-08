@@ -9,8 +9,8 @@ And like a great man said :
 ----------
 **THE END**
 Alex
-*here's another line
-*and a third one just there
-*I thinkcoding is the best
+* Here's another line
+* And a third one just there
+* I think coding is the best
 
-here we trying the conflit
+Here we're trying the conflit
